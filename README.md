@@ -12,3 +12,7 @@
 6. Import bbdms.sql file(given inside the zip package in the SQL file folder)
 
 7. Run the script http://localhost/bbdms
+
+Admin Credential
+Username: admin
+Password: Test@123
